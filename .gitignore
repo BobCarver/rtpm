@@ -1,0 +1,10 @@
+
+# Mac crap
+.DS_Store
+
+
+node_modules
+node-rtpmidi-master
+
+# Visual Studio Code
+.vscode

@@ -1,0 +1,14 @@
+{
+  "name": "rtpmidi",
+  "version": "0.0.1",
+  "description": "'rtp midi using new es features'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bob Carver",
+  "license": "ISC",
+  "dependencies": {
+    "mdns": "^2.5.1"
+  }
+}
